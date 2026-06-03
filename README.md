@@ -71,16 +71,18 @@ endmodule
 
 ```
 **RTL Schematic**
-Half Adder
+**Half Adder**
 <img width="1619" height="825" alt="image" src="https://github.com/user-attachments/assets/c1fdd948-cf9a-4228-b725-f3dd921f09ec" />
-Half Subtractor
+**Half Subtractor**
 <img width="1639" height="888" alt="image" src="https://github.com/user-attachments/assets/26550788-31c6-4412-bb81-016c5e025607" />
 
 **Output/TIMING Waveform**
-Half Adder
+**Half Adder**
 <img width="1617" height="865" alt="image" src="https://github.com/user-attachments/assets/caadd660-d796-42c0-865c-ffd8a721be80" />
-Half Subtractor
-![Uploading image.png…]()
+**Half Subtractor**
+<img width="1631" height="885" alt="image" src="https://github.com/user-attachments/assets/dcc06639-606b-43e2-bd04-65e2f4853a10" />
+
+
 
 
 **Result:**
