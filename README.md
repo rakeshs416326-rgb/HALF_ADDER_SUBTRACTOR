@@ -86,3 +86,4 @@ endmodule
 
 
 **Result:**
+Thus the OUTPUT's of Encoder and Decoder are verified by synthesizing and simulating the VERILOG code.
